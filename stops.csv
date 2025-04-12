@@ -1,0 +1,6 @@
+stop_id,name,lat,lon,connections
+A,IIT Gate,28.5450,77.1926,"B:10"
+B,Hauz Khas,28.5494,77.2001,"A:10,C:12,D:20"
+C,AIIMS,28.5672,77.2100,"B:12,D:15"
+D,Rajiv Chowk,28.6328,77.2197,"C:15,B:20,E:5"
+E,Connaught Place,28.6315,77.2167,"D:5"

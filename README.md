@@ -37,4 +37,12 @@ D,Rajiv Chowk,28.6328,77.2197,"C:15,B:20,E:5"
 E,Connaught Place,28.6315,77.2167,"D:5"
 
 
+## Deploy on Streamlit
+1. Push code to GitHub
+2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
+3. Click “New App”
+4. Select your repo and set `app.py` as the entry point
+5. Click Deploy!
+
+
 
